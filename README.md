@@ -12,3 +12,5 @@ To visualize the data in `grafana`.
 - Go to [http://localhost:3000/ Grafana](http://localhost:3000/)
 - Create the influx datasource 
 - Create the [dashboard grafana.dashboard.json](grafana.dashboard.json)
+
+![Grafana dashboard](grafana-dashboard.png "Grafana dashboard")
