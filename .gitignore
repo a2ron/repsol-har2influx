@@ -4,3 +4,4 @@ meta
 wal
 har/*
 !tmp/.gitkeep
+!har/.gitkeep
